@@ -47,4 +47,4 @@ public class Main {
         return start;
     }
 }
-// It si similar as ceiling of a number.
+// It is similar as ceiling of a number.
